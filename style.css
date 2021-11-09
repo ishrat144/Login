@@ -1,0 +1,19 @@
+.container{
+    text-align: center;
+}
+.form h1{
+    color: #d0d8d8;
+}
+.form button{
+    color:mediumblue;
+}
+body{
+    background-color: darkslategrey;
+}
+Input{
+    height: 25px;
+}
+button{
+    height: 25px;
+    width: 80px;
+}
